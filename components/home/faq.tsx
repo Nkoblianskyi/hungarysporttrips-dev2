@@ -13,10 +13,6 @@ const faqs = [
     a: 'Kiscsoportos utazásokat szervezünk, általában 6–10 főre. Ez biztosítja a személyre szabott élményt és azt, hogy a vezető mindenkit figyelemmel tudjon kísérni.',
   },
   {
-    q: 'Mi szerepel a csomag árában?',
-    a: 'Minden túránál részletesen feltüntettük, mi tartozik a csomagba. Általában beletartozik a szállás, a túravezető, csomagtranszfer és reggeli. Az ár nem tartalmazza az odautazást.',
-  },
-  {
     q: 'Milyen fizikai állapot szükséges?',
     a: 'Minden túránál jelöljük a nehézségi szintet. Vannak könnyebb, 30–50 km-es kerékpártúráink és komolyabb ultratrail programjaink is. Kérdés esetén írjon nekünk – segítünk a legmegfelelőbb túra kiválasztásában.',
   },

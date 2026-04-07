@@ -20,7 +20,7 @@ const steps = [
     num: '03',
     title: 'Megérkezett az élmény',
     description:
-      'A teljes programot megszervezzük: szállás, belépők, transzfer. Önnek csak meg kell érkeznie és élveznie kell.',
+      'A teljes programot megszervezzük: szállás, transzfer. Önnek csak meg kell érkeznie és élveznie kell.',
   },
   {
     num: '04',
