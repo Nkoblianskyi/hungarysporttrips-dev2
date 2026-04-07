@@ -1,3 +1,4 @@
+import { Suspense } from 'react'
 import { Metadata } from 'next'
 import Image from 'next/image'
 import { Navigation } from '@/components/navigation'
@@ -142,7 +143,9 @@ export default function KapcsolatPage() {
               <div className="bg-card border border-border p-8 md:p-12 sticky top-24 h-fit">
                 <h3 className="font-display text-2xl font-light mb-2">Küldön Üzenetet</h3>
                 <p className="text-muted-foreground text-sm mb-8">Válaszunk legkésőbb 24 órán belül érkezik.</p>
-                <ContactForm />
+                <Suspense fallback={<div className="min-h-[28rem] animate-pulse rounded-md bg-muted/40" aria-hidden />}>
+                  <ContactForm />
+                </Suspense>
               </div>
             </div>
           </div>
