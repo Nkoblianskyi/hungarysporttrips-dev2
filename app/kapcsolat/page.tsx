@@ -113,12 +113,6 @@ export default function KapcsolatPage() {
                       Nem szereti a standard programokat? Szervezzen egyéni kalandot csapatával.
                     </p>
                   </div>
-                  <div className="border-l-4 border-primary pl-6">
-                    <h4 className="font-display text-lg font-semibold mb-2">Csoportos Megrendelés</h4>
-                    <p className="font-body text-sm text-muted-foreground">
-                      10+ fő? Speciális árajánlatot adunk a csoportoknak.
-                    </p>
-                  </div>
                   <div className="border-l-4 border-gold pl-6">
                     <h4 className="font-display text-lg font-semibold mb-2">Felmerült Kérdés?</h4>
                     <p className="font-body text-sm text-muted-foreground">

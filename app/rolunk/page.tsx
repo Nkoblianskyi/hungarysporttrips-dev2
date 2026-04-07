@@ -11,7 +11,7 @@ export const metadata = {
 const values = [
   {
     title: 'Autentikusság',
-    desc: 'Szerzői útvonalak, vezetők, akik személyesen ismerik a terepen minden zárkányt. Nincsenek kész sablonok, csak élmények.',
+    desc: 'Szerzői útvonalak, vezetők, akik személyesen ismerik a terepen minden zárkányt.',
   },
   {
     title: 'Kiscsoportos',
@@ -57,8 +57,7 @@ export default function RolunkPage() {
                 <div className="space-y-4 font-body text-muted-foreground leading-relaxed text-sm">
                   <p>
                     A Hungary Sport Trips egy független szerzői túraszervezet, amely kizárólag Magyarország legszebb
-                    természeti tájait járja be aktív sporttúrák segítségével. Nincsenek márkák, nincsenek stadionok,
-                    nincsenek jegykiadók – csak az autentikus kaland.
+                    természeti tájait járja be aktív sporttúrák segítségével.
                   </p>
                   <p>
                     Mivel saját vezetőink személyesen tervezik az útvonalakat minden évben, hogy elkerüljük az ismétlődést
